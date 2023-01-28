@@ -1,0 +1,1 @@
+we have one text file with all the text that needs to be validated with the help currency, date, tags and phone number python files. All these files are executed using driver files.
